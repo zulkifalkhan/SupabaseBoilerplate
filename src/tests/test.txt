@@ -1,0 +1,10 @@
+For testing you can do the following:
+
+-- use Supertest (JS library)
+--use Mocha or Jest
+
+--this can be for testing the apis which includes:
+- authentication
+-major functioanlity modules
+
+--Also in the end integrate swagger
